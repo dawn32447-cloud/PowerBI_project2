@@ -10,11 +10,13 @@ Sales Forecasting: Utilizing Power BI’s built-in analytics features to predict
 
 
 KPI's Metrics📊
-<img width="1163" height="656" alt="Screenshot 2026-03-10 191811" src="https://github.com/user-attachments/assets/1551b754-28ce-4681-90e9-94b5e4841151" />
+<img width="1158" height="645" alt="Screenshot 2026-03-10 194419" src="https://github.com/user-attachments/assets/7a2ea6ad-5c2f-4fff-927c-ae061b761ff0" />
+
 
 
 KPI's Findings📊
-<img width="1179" height="659" alt="Screenshot 2026-03-10 191859" src="https://github.com/user-attachments/assets/2e9b7223-b814-4c7d-810d-b9dc3bd423dd" />
+<img width="1167" height="650" alt="Screenshot 2026-03-10 194456" src="https://github.com/user-attachments/assets/3214ea7c-5225-422b-8576-670021414266" />
+
 
 
 🛠️ Tech Stack
